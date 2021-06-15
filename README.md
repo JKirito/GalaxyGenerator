@@ -1,8 +1,11 @@
 # GalaxyGenerator
-<h1 align="center">Hi 👋, I'm Arpit Singh</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
 
+The Demo is Live at [https://galaxygen.netlify.app/](https://galaxygen.netlify.app/)
 
+### Information
 
-Generate The Build Version by Running :- npm run build
-To Run the Development Version:- npm run dev
+**Galaxy Generator** is Created using Webpack, WebGL, HTML, CSS, THREE JS.
+All the Parameters Are Dynamic.
+
+Generate The Build Version by Running :- **npm run build**
+To Run the Development Version:- **npm run dev**
